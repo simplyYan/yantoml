@@ -2,6 +2,8 @@
 
 yantoml is a lightweight, efficient, and easy-to-use library for manipulating TOML files. It is designed to provide a simple and straightforward interface for reading, modifying, and converting TOML files. The library is open-source, fast, and extremely easy to use.
 
+docs: https://github.com/simplyYan/yantoml/wiki/Docs
+
 == Installation
 
 To install yantoml, use the standard `go get` command:
